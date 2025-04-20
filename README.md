@@ -16,13 +16,8 @@
 
 ## What is it?
 
-**pandas** is a Python package that provides fast, flexible, and expressive data
-structures designed to make working with "relational" or "labeled" data both
-easy and intuitive. It aims to be the fundamental high-level building block for
-doing practical, **real world** data analysis in Python. Additionally, it has
-the broader goal of becoming **the most powerful and flexible open source data
-analysis / manipulation tool available in any language**. It is already well on
-its way towards this goal.
+**Pandas** is a powerful and flexible Python library designed for working with structured ("relational" or "labeled") data in an intuitive and efficient way. It serves as a fundamental high-level building block for performing practical, real-world data analysis in Python. Pandas also aspires to be the most powerful and versatile open-source tool for data manipulation and analysis — not just in Python, but across all programming languages. It is already well on its way to achieving that goal.
+
 
 ## Table of Contents
 
